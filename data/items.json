@@ -1,0 +1,227 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "6",
+      "name": "Skill Slot",
+      "category": ["Skills"],
+      "progression": true
+    },
+    {
+      "count": "5",
+      "name": "Skill Category",
+      "category": ["Skills"],
+      "progression": true
+    },
+    {
+      "count": "15",
+      "name": "Skill Level",
+      "category": ["Skills"],
+      "progression": true
+    },
+    {
+      "count": "12",
+      "name": "Torment Levels",
+      "category": ["Difficulty"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Items Common",
+      "category": ["Rarity"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Items Uncommon",
+      "category": ["Rarity"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Items Rare",
+      "category": ["Rarity"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Items Unique",
+      "category": ["Rarity"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fractured Peaks",
+      "category": ["Region"],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Scosglen",
+      "category": ["Region"],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Dry Steppes",
+      "category": ["Region"],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Kehjistan",
+      "category": ["Region"],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Hawezar",
+      "category": ["Region"],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Nahantu",
+      "category": ["Region"],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Skovos",
+      "category": ["Region"],
+      "progression_skip_balancing": true
+    },
+	{
+      "count": 1,
+      "name": "Side Quests",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Pit",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Helltides",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Nightmare Dungeons",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Infernal Hordes",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kurast Undercity",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Citadel",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lair Bosses",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "World Bosses",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tree of Whispers",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "War Plans",
+      "category": ["Quests"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equip Helm",
+      "category": ["Armor"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equip Chest",
+      "category": ["Armor"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equip Legs",
+      "category": ["Armor"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equip Boots",
+      "category": ["Armor"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equip Gloves",
+      "category": ["Armor"],
+      "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Equip Ring",
+      "category": ["Armor"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equip Amulet",
+      "category": ["Armor"],
+      "progression": true
+    },
+	{
+      "count": 1,
+      "name": "Equip Talisman",
+      "category": ["Armor"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ride Horse",
+      "category": ["Companion"],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mercenary",
+      "category": ["Companion"],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Use Potion",
+      "category": ["Utility"],
+      "useful": true
+    }
+  ]
+}

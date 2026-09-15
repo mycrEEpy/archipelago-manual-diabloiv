@@ -1,0 +1,566 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Level 1",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 2",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 3",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 4",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 5",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 6",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 7",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 8",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 9",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 10",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 11",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 12",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 13",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 14",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 15",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 16",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 17",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 18",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 19",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 20",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 21",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 22",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 23",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 24",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 25",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 26",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 27",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 28",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 29",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 30",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 31",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 32",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 33",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 34",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 35",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 36",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 37",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 38",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 39",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 40",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 41",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 42",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 43",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 44",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 45",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 46",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 47",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 48",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 49",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 50",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 51",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 52",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 53",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 54",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 55",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 56",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 57",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 58",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 59",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 60",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 61",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 62",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 63",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 64",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 65",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 66",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 67",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 68",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 69",
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Level 70",
+      "victory": true,
+      "region": "Levels",
+      "category": [
+        "Levels"
+      ],
+      "requires": ""
+    }
+  ]
+}

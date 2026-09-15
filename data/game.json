@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "DiabloIV",
+  "creator": "crEEpy",
+  "filler_item_name": "Hatred",
+  "starting_items": [
+	{
+      "items": ["Items Common"]
+    },
+	{
+      "items": ["Skill Slot"],
+	  "random": 1
+    },
+	{
+      "items": ["Skill Level"],
+	  "random": 1
+    },
+	{
+      "item_categories": ["Region"],
+	  "random": 1
+    }
+  ]
+}
