@@ -15,7 +15,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 1|"
     },
     {
       "name": "Level 3",
@@ -23,7 +23,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 2|"
     },
     {
       "name": "Level 4",
@@ -31,7 +31,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 3|"
     },
     {
       "name": "Level 5",
@@ -39,7 +39,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 4|"
     },
     {
       "name": "Level 6",
@@ -47,7 +47,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 5|"
     },
     {
       "name": "Level 7",
@@ -55,7 +55,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 6|"
     },
     {
       "name": "Level 8",
@@ -63,7 +63,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 7|"
     },
     {
       "name": "Level 9",
@@ -71,7 +71,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 8|"
     },
     {
       "name": "Level 10",
@@ -79,7 +79,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|Use Potion|"
+      "requires": "|Reached Level 9| and |Use Potion|"
     },
     {
       "name": "Level 11",
@@ -87,7 +87,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 10|"
     },
     {
       "name": "Level 12",
@@ -95,7 +95,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 11|"
     },
     {
       "name": "Level 13",
@@ -103,7 +103,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 12|"
     },
     {
       "name": "Level 14",
@@ -111,7 +111,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 13|"
     },
     {
       "name": "Level 15",
@@ -119,7 +119,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 14|"
     },
     {
       "name": "Level 16",
@@ -127,7 +127,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 15|"
     },
     {
       "name": "Level 17",
@@ -135,7 +135,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 16|"
     },
     {
       "name": "Level 18",
@@ -143,7 +143,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 17|"
     },
     {
       "name": "Level 19",
@@ -151,7 +151,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 18|"
     },
     {
       "name": "Level 20",
@@ -159,7 +159,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|Ride Horse|"
+      "requires": "|Reached Level 19| and |Ride Horse|"
     },
     {
       "name": "Level 21",
@@ -167,7 +167,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 20|"
     },
     {
       "name": "Level 22",
@@ -175,7 +175,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 21|"
     },
     {
       "name": "Level 23",
@@ -183,7 +183,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 22|"
     },
     {
       "name": "Level 24",
@@ -191,7 +191,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 23|"
     },
     {
       "name": "Level 25",
@@ -199,7 +199,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 24|"
     },
     {
       "name": "Level 26",
@@ -207,7 +207,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 25|"
     },
     {
       "name": "Level 27",
@@ -215,7 +215,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 26|"
     },
     {
       "name": "Level 28",
@@ -223,7 +223,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 27|"
     },
     {
       "name": "Level 29",
@@ -231,7 +231,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 28|"
     },
     {
       "name": "Level 30",
@@ -239,7 +239,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|@Armor:half| and |@Skills:half|"
+      "requires": "|Reached Level 29| and |@Armor:half| and |@Skills:half|"
     },
     {
       "name": "Level 31",
@@ -247,7 +247,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 30|"
     },
     {
       "name": "Level 32",
@@ -255,7 +255,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 31|"
     },
     {
       "name": "Level 33",
@@ -263,7 +263,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 32|"
     },
     {
       "name": "Level 34",
@@ -271,7 +271,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 33|"
     },
     {
       "name": "Level 35",
@@ -279,7 +279,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 34|"
     },
     {
       "name": "Level 36",
@@ -287,7 +287,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 35|"
     },
     {
       "name": "Level 37",
@@ -295,7 +295,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 36|"
     },
     {
       "name": "Level 38",
@@ -303,7 +303,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 37|"
     },
     {
       "name": "Level 39",
@@ -311,7 +311,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 38|"
     },
     {
       "name": "Level 40",
@@ -319,7 +319,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|@Armor:all| and |@Region:half|"
+      "requires": "|Reached Level 39| and |@Armor:all| and |@Region:half|"
     },
     {
       "name": "Level 41",
@@ -327,7 +327,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 40|"
     },
     {
       "name": "Level 42",
@@ -335,7 +335,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 41|"
     },
     {
       "name": "Level 43",
@@ -343,7 +343,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 42|"
     },
     {
       "name": "Level 44",
@@ -351,7 +351,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 43|"
     },
     {
       "name": "Level 45",
@@ -359,7 +359,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 44|"
     },
     {
       "name": "Level 46",
@@ -367,7 +367,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 45|"
     },
     {
       "name": "Level 47",
@@ -375,7 +375,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 46|"
     },
     {
       "name": "Level 48",
@@ -383,7 +383,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 47|"
     },
     {
       "name": "Level 49",
@@ -391,7 +391,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 48|"
     },
     {
       "name": "Level 50",
@@ -399,7 +399,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|@Rarity:all| and |@Quests:half|"
+      "requires": "|Reached Level 49| and |@Rarity:all| and |@Quests:half|"
     },
     {
       "name": "Level 51",
@@ -407,7 +407,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 50|"
     },
     {
       "name": "Level 52",
@@ -415,7 +415,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 51|"
     },
     {
       "name": "Level 53",
@@ -423,7 +423,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 52|"
     },
     {
       "name": "Level 54",
@@ -431,7 +431,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 53|"
     },
     {
       "name": "Level 55",
@@ -439,7 +439,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 54|"
     },
     {
       "name": "Level 56",
@@ -447,7 +447,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 55|"
     },
     {
       "name": "Level 57",
@@ -455,7 +455,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 56|"
     },
     {
       "name": "Level 58",
@@ -463,7 +463,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 57|"
     },
     {
       "name": "Level 59",
@@ -471,7 +471,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 58|"
     },
     {
       "name": "Level 60",
@@ -479,7 +479,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|@Skills:all| and |@Difficulty:half|"
+      "requires": "|Reached Level 59| and |@Skills:all| and |@Difficulty:half|"
     },
     {
       "name": "Level 61",
@@ -487,7 +487,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 60|"
     },
     {
       "name": "Level 62",
@@ -495,7 +495,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 61|"
     },
     {
       "name": "Level 63",
@@ -503,7 +503,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 62|"
     },
     {
       "name": "Level 64",
@@ -511,7 +511,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 63|"
     },
     {
       "name": "Level 65",
@@ -519,7 +519,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 64|"
     },
     {
       "name": "Level 66",
@@ -527,7 +527,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 65|"
     },
     {
       "name": "Level 67",
@@ -535,7 +535,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 66|"
     },
     {
       "name": "Level 68",
@@ -543,7 +543,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 67|"
     },
     {
       "name": "Level 69",
@@ -551,7 +551,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Reached Level 68|"
     },
     {
       "name": "Level 70",
@@ -560,7 +560,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|@Quests:all| and |@Region:all|"
+      "requires": "|Reached Level 69| and |@Quests:all| and |@Region:all|"
     }
   ]
 }
