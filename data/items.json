@@ -209,7 +209,7 @@
       "count": 1,
       "name": "Ride Horse",
       "category": ["Companion"],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -221,7 +221,7 @@
       "count": 1,
       "name": "Use Potion",
       "category": ["Utility"],
-      "useful": true
+      "progression_skip_balancing": true
     }
   ]
 }
