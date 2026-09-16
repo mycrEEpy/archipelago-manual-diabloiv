@@ -79,7 +79,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Use Potion|"
     },
     {
       "name": "Level 11",
@@ -159,7 +159,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|Ride Horse|"
     },
     {
       "name": "Level 21",
@@ -239,7 +239,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|@Armor:half| and |@Skills:half|"
     },
     {
       "name": "Level 31",
@@ -319,7 +319,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|@Armor:all| and |@Region:half|"
     },
     {
       "name": "Level 41",
@@ -399,7 +399,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|@Rarity:all| and |@Quests:half|"
     },
     {
       "name": "Level 51",
@@ -479,7 +479,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|@Skills:all| and |@Difficulty:half|"
     },
     {
       "name": "Level 61",
@@ -560,7 +560,7 @@
       "category": [
         "Levels"
       ],
-      "requires": ""
+      "requires": "|@Quests:all| and |@Region:all|"
     }
   ]
 }
