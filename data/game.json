@@ -4,20 +4,24 @@
   "creator": "crEEpy",
   "filler_item_name": "Hatred",
   "starting_items": [
-	{
+    {
       "items": ["Items Common"]
     },
-	{
+    {
       "items": ["Skill Slot"],
-	  "random": 1
+      "random": 1
     },
-	{
+    {
       "items": ["Skill Level"],
-	  "random": 1
+      "random": 1
     },
-	{
+    {
+      "items": ["Skill Category"],
+      "random": 1
+    },
+    {
       "item_categories": ["Region"],
-	  "random": 1
+      "random": 1
     }
   ]
 }

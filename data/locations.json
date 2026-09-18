@@ -79,7 +79,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|Reached Level 9| and |Ride Horse| and |Skill Category:1|"
+      "requires": "|Reached Level 9| and |Ride Horse| and |Skill Category:2|"
     },
     {
       "name": "Level 11",
@@ -159,7 +159,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|Reached Level 19| and |Skill Category:2|"
+      "requires": "|Reached Level 19| and |Skill Category:3|"
     },
     {
       "name": "Level 21",
@@ -239,7 +239,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|Reached Level 29| and |@Armor:half| and |Skill Category:3|"
+      "requires": "|Reached Level 29| and |@Armor:half| and |Skill Category:4|"
     },
     {
       "name": "Level 31",
@@ -319,7 +319,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|Reached Level 39| and |@Armor:all| and |@Region:half| and |Skill Category:4|"
+      "requires": "|Reached Level 39| and |@Armor:all| and |@Region:half| and |Skill Category:5|"
     },
     {
       "name": "Level 41",
