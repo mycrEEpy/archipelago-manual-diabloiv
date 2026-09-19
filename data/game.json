@@ -5,7 +5,7 @@
   "filler_item_name": "Hatred",
   "starting_items": [
     {
-      "items": ["Items Common"]
+      "items": ["Common Items"]
     },
     {
       "items": ["Skill Slot"],

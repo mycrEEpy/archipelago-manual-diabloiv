@@ -199,7 +199,7 @@
       "category": [
         "Levels"
       ],
-      "requires": "|Reached Level 24| and |Skill Slot:3|"
+      "requires": "|Reached Level 24| and |@Rarity:half| and |Skill Slot:3|"
     },
     {
       "name": "Level 26",

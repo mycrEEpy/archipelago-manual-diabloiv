@@ -27,25 +27,31 @@
     },
     {
       "count": 1,
-      "name": "Items Common",
+      "name": "Common Items",
       "category": ["Rarity"],
       "progression": true
     },
     {
       "count": 1,
-      "name": "Items Uncommon",
+      "name": "Magic Items",
       "category": ["Rarity"],
       "progression": true
     },
     {
       "count": 1,
-      "name": "Items Rare",
+      "name": "Rare Items",
       "category": ["Rarity"],
       "progression": true
     },
     {
       "count": 1,
-      "name": "Items Unique",
+      "name": "Legendary Items",
+      "category": ["Rarity"],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Unique Items",
       "category": ["Rarity"],
       "progression": true
     },
